@@ -1,5 +1,5 @@
 # Experimental Design and Analysis
-### Projects to establish causality and draw reliable conclusions from experimental data.
+### Projects to establish causality and draw reliable conclusions from observational data.
 
 Experimental design involves designing the experiment in a way that minimizes the effects of extraneous variables and maximizes the internal validity of the results. This includes identifying the research question, selecting the sample, determining the experimental conditions, and establishing the methods of data collection.
 
